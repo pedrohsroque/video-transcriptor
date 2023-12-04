@@ -1,0 +1,6 @@
+.venv/
+transcriptions/**/
+transcriptions/**.txt
+audios/**/
+videos/**.mp4
+__pycache__/
